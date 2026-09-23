@@ -1,0 +1,3 @@
+Instructions for installing our endpoint agents can be found in our Help Center across the following chapters:
+Manual Installations: https://support.fieldeffect.com/en/support/solutions/folders/16000100918
+Automated Installations: https://support.fieldeffect.com/en/support/solutions/folders/16000100919
